@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="ssh://dev@localhost:2207/home/dev/.nvm/versions/node/v4.7.3/bin/node" HOST="localhost" PORT="2207" USERNAME="dev" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="true" INTERPRETER_PATH="/home/dev/.nvm/versions/node/v4.7.3/bin/node" HELPERS_PATH="/home/dev/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="4.7.3" />
+  </component>
+</application>
